@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905278496407",
+    "project_id": "blood-donation-app-e7e7e",
+    "storage_bucket": "blood-donation-app-e7e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905278496407:android:0102773d6c49064b8b93d2",
+        "android_client_info": {
+          "package_name": "com.example.personal_money_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCHS2OeW4-jBqXOWu2ptJ6nmxSqfS39So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
